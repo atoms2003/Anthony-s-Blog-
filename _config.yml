@@ -1,7 +1,7 @@
 collections:
   authors:
     output: true
-
+theme: jekyll-theme-leaf
 defaults:
   - scope:
       path: ""
@@ -17,7 +17,7 @@ defaults:
       path: ""
     values:
       layout: "default"
-      plugins:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
