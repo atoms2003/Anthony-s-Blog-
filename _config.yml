@@ -1,7 +1,7 @@
 collections:
   authors:
     output: true
-theme: jekyll-theme-leaf
+theme: minima
 defaults:
   - scope:
       path: ""
