@@ -1,0 +1,7 @@
+# Anthony-s-Blog-
+Anthony's Adventures Around ISD!
+---
+title: Day 1!
+date:  2021-06-8
+---
+Day 1 at KUB!!! I'm going to be here for 8 weeks and looking forward to it. This day has been pretty chill. The people here are mostly quiet and keep to them themselves. I had computer problems before but todays was something I've never seen before. First, I had a little trouble hooking up everything. I have two monitors in front of me then I learned I will be using a laptop. Ha ha I know, then I turn the laptop up and... it gets stuck on a blue for over 30 minutes... :( Eventually, I had to go to the IT help desk. They were stumpped too! Lastly, they called Cyber Security and "BOOM", starts working. Madison, my mentor, gets me started on this site called GitHub. This site is going to be helping for a few weeks. It will teach some basic to coding and many other things. After that, I learned enough to write a blog. I had a little hiccups here and there, but I'm understanding more and more. This has been a nice new learning experience because I've always liked working with technology since I was young, but I've never done anything like this! It's very cool to code my own blog and look forward it to it! I have about a hour left in my day. I'll wrap it up there. I don't really know how to end off a blog... So until next time! -Anthony
