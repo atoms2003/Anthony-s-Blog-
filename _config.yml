@@ -1,7 +1,10 @@
 collections:
   authors:
     output: true
-theme: jekyll-theme-leaf
+theme: minima
+baseurl: 
+url: "anthony-s-blog"
+permalink: /:title
 defaults:
   - scope:
       path: ""
@@ -17,7 +20,7 @@ defaults:
       path: ""
     values:
       layout: "default"
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
+    plugins:
+      - jekyll-feed
+      - jekyll-sitemap
+      - jekyll-seo-tag
