@@ -2,7 +2,7 @@ collections:
   authors:
     output: true
 theme: minima
-baseurl: ""
+baseurl: 
 url: "anthony-s-blog"
 permalink: /:title
 defaults:
