@@ -1,7 +1,7 @@
 collections:
   authors:
     output: true
-theme: jekyll-agency
+theme: jekyll-theme-architect
 baseurl: /anthony-s-blog
 permalink: /:title
 defaults:
