@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: link
 title: About
 ---
 # About page
