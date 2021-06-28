@@ -1,1 +1,1 @@
-https://atoms2003.github.io/anthony-s-blog/
+To check out my blog, click [here](https://atoms2003.github.io/anthony-s-blog/
