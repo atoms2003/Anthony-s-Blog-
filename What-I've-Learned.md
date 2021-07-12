@@ -18,10 +18,10 @@ push. Git commit is the command that turns those stage changes into commits! Com
 
 --force: Usually don't use this command but its used to force changes to push if there's a error with a command like git push.
 
-gup: This command shows you the latest verison of the branch you are currently on.
+gup: This command brings my code up to date with code I have written in Github.
 
 git stash: This helps you stash other changes till later or save your changes even after using a command that might delete your changed such as gup.
 
 git diff: shows you the changes and diffrences between commits.
 
-git rm: Removal of a file or files.
+rm: Removal of a file or files.
