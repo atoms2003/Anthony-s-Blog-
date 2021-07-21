@@ -4,9 +4,21 @@
 
 
  <h1> Calculator </h1>
- <textarea id ="input1"></textarea>   
- <textarea id ="input2"></textarea>
- <h2 id ="input3">  </h2>
+ <textarea id =input1></textarea>   
+ <textarea id =input2></textarea>
+ <p id =answer> </p>
 <p>Click the calculate button to get your result!</p>
-<button type="button" onclick="myFunction()">Calculate!</button>
-<a href="/anthony-s-blog/">Testing back link</a></body>
+<button type="button" onclick="addition()">Calculate!</button>
+
+<script>
+function addition() {   
+    var x = parseInt(document.getElementById("input1").value);
+    var y = parseInt(document.getElementById("input2").value);
+    let z = x + y;
+    document.getElementById("answer").innerHTML = z;
+}
+</script>
+
+<a href="/anthony-s-blog/">Back to Blog</a>
+</body>
+</html>
